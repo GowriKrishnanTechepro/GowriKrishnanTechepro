@@ -1,0 +1,12 @@
+- 👋 Hi, I’m GowriKrishnanTeche 
+- 👀 I am intrested on to learn new thing about tech related like programming languages
+- 🌱 Currently i did java fullStack on AccordInfoMatrix
+- 💞️ looking for a company to upgrade  each together
+- 📫 to ReachMe
+-     ToCall(9360745837)
+-     ToMail(gowrikrishnan93607g@gmail.com)
+- About Project
+-     For show the bikelist to bookbikes
+-     Using CRUD method to implement
+-     Using OOPs concept Based on This 
+
